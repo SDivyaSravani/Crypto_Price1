@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crypto_Price1/static/css/main.7ba77acf.css",
+    "main.js": "/Crypto_Price1/static/js/main.a802822e.js",
+    "static/media/iphone.png": "/Crypto_Price1/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/Crypto_Price1/static/media/gradient.12a666ed10b3b442b534.png",
+    "index.html": "/Crypto_Price1/index.html",
+    "main.7ba77acf.css.map": "/Crypto_Price1/static/css/main.7ba77acf.css.map",
+    "main.a802822e.js.map": "/Crypto_Price1/static/js/main.a802822e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba77acf.css",
+    "static/js/main.a802822e.js"
+  ]
+}
